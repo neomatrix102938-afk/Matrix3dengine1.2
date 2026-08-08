@@ -1,0 +1,14 @@
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/bin/Debug/net10.0/Matrix3dengine
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/bin/Debug/net10.0/Matrix3dengine.deps.json
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/bin/Debug/net10.0/Matrix3dengine.runtimeconfig.json
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/bin/Debug/net10.0/Matrix3dengine.dll
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/bin/Debug/net10.0/Matrix3dengine.pdb
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/obj/Debug/net10.0/Matrix3dengine.GeneratedMSBuildEditorConfig.editorconfig
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/obj/Debug/net10.0/Matrix3dengine.AssemblyInfoInputs.cache
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/obj/Debug/net10.0/Matrix3dengine.AssemblyInfo.cs
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/obj/Debug/net10.0/Matrix3dengine.csproj.CoreCompileInputs.cache
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/obj/Debug/net10.0/Matrix3dengine.dll
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/obj/Debug/net10.0/refint/Matrix3dengine.dll
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/obj/Debug/net10.0/Matrix3dengine.pdb
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/obj/Debug/net10.0/Matrix3dengine.genruntimeconfig.cache
+/home/pyzzone/Downloads/Matrix3dengine1.1-main/Matrix3dengine1.1-main/Matrix3dengine/obj/Debug/net10.0/ref/Matrix3dengine.dll
